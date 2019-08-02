@@ -1,1 +1,1 @@
-# train_multiple_dlib_svm_models_for_object_detection_by_optimizing_C_value
+# Train multiple Dlib SVM models for object detection by optimizing C value
